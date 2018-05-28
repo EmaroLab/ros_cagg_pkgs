@@ -7,7 +7,7 @@ This repository contains a simple node that performs text recognition based on t
 It depends on ros-java, installable o via `apt-get`  (tested with Ubuntu 16.04 and ROS kinetic) and the CAGG API.
 The latter is included as a jar file in the `/lib` folder, run it with a JVM if you what to use the CAGG grammar generator GUI.
 
-This repository has been based on the ROS-java templated package [available here](https://github.com/buoncubi/ros_java_template_pkg)
+This repository has been based on the ROS-java templated package [available here](https://github.com/buoncubi/ros_java_template_pkg).
 
 ### Installation
 
@@ -55,4 +55,4 @@ But you can use it as a starting point for building something more clever
 [Luca Buoncompagni](mailto:luca.buoncompagni@edu.unige.it)
 EMAROlab, DIBRIS department, University of Genoa, Italy.
 
-Previous commit for this package can be (found here)[https://gitlab.com/buoncubi/ros_cagg_pkgs]
+Previous commit for this package can be [found here](https://gitlab.com/buoncubi/ros_cagg_pkgs).
