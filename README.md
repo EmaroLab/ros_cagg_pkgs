@@ -54,3 +54,5 @@ But you can use it as a starting point for building something more clever
 
 [Luca Buoncompagni](mailto:luca.buoncompagni@edu.unige.it)
 EMAROlab, DIBRIS department, University of Genoa, Italy.
+
+Previous commit for this package can be (found here)[https://gitlab.com/buoncubi/ros_cagg_pkgs]
